@@ -43,6 +43,7 @@
     "react-dom": "^18.2.0",
     "react-hotkeys-hook": "^4.4.1",
     "styled-components": "^6.1.6",
+    "date-fns": "^2.30.0",
     "@types/markdown-it": "^13.0.7",
     "@types/styled-components": "^5.1.34"
   },
